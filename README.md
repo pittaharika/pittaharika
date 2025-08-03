@@ -40,10 +40,19 @@ I'm eager to connect with **like-minded developers**, **collaborate on open-sour
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harika-pitta-196871280/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pittaharika)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pittaharika638@gmail.com)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/harika-pitta-196871280/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;" />
+  </a>
+  
+  <a href="https://github.com/pittaharika" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 20px;" />
+  </a>
+  
+  <a href="mailto:pittaharika638@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" style="margin-right: 20px;" />
+  </a>
+</p>
 
 
 
