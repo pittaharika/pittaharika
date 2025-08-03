@@ -49,9 +49,7 @@ I'm eager to connect with **like-minded developers**, **collaborate on open-sour
 
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&width=435&lines=Happy+Coding!+🚀" alt="Typing SVG" />
-</p>
+
 
 
 <!--
