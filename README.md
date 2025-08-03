@@ -12,11 +12,12 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Harika Pitta**, a passionate and enthusiastic MERN stack developer who enjoys building efficient and user-friendly web applications.
+Hi! I'm **Harika Pitta**, a passionate and enthusiastic full stack developer who enjoys building efficient and user-friendly web applications.
 
-I'm currently working on real-world MERN stack projects and love integrating AI and IoT concepts to make solutions smarter and more impactful.
+I'm currently exploring the MERN stack and building real-world projects to strengthen my skills and create impactful web applications.
 
 I'm eager to connect with **like-minded developers**, **collaborate on open-source**, and **contribute meaningfully** to tech communities.
+
 
 ---
 
