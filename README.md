@@ -39,8 +39,18 @@ I'm eager to connect with **like-minded developers**, **collaborate on open-sour
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pittaharika638@gmail.com)
 
 
+---
+
+## ✨ Thank You
+
 <p align="center">
-  <b>✨ Thank you for visiting my GitHub profile! ✨</b>
+  Thank you for taking the time to explore my GitHub profile!  
+  I'm always open to collaboration, learning, and connecting with developers.  
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&width=435&lines=Happy+Coding!+🚀" alt="Typing SVG" />
 </p>
 
 
